@@ -57,3 +57,16 @@ TODO
 - observables-final.zip
 ### Folders
 - observables-start
+
+## 14.- Course Project - Observables
+### ASSETS
+### Folders
+
+## 15.- Handling Forms in Angular Apps
+### ASSETS
+- forms-td-start.zip
+- forms-td-final.zip
+- forms-reactive-start.zip
+- forms-reactive-final.zip
+### Folders
+- forms-td-start
