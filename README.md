@@ -96,7 +96,7 @@
 
 ## 14.- Course Project - Observables
 ### ASSETS
-### Folders
+- prj-observables-final.zip
 
 ## 15.- Handling Forms in Angular Apps
 ### ASSETS
