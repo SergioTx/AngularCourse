@@ -102,7 +102,10 @@
 ### ASSETS
 - forms-td-start.zip
 - forms-td-final.zip
+- forms-td-assignment-start.zip
+- forms-td-assignment-solution.zip
 - forms-reactive-start.zip
 - forms-reactive-final.zip
 ### Folders
 - forms-td-start
+- forms-td-assignment-start
