@@ -106,6 +106,9 @@
 - forms-td-assignment-solution.zip
 - forms-reactive-start.zip
 - forms-reactive-final.zip
+- forms-reactive-assignment-start.zip
+- forms-reactive-assignment-solution.zip
 ### Folders
 - forms-td-start
 - forms-td-assignment-start
+- forms-reactive-assignment-start
