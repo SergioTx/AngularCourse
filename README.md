@@ -113,8 +113,18 @@
 - forms-td-assignment-start
 - forms-reactive-assignment-start
 
-## 15.- Courser Project - Forms
+## 16.- Courser Project - Forms
 ### ASSETS
 - prj-forms-td.zip
 - prj-forms-reactive.zip
 - prj-forms-final.zip
+
+## 17.- Using pipes to transform output
+### ASSETS
+- pipes-start.zip
+- pipes-final.zip
+- pipes-assignment-start.zip 
+- pipes-assignment-solution.zip 
+### Folders
+- pipes-start
+- pipes-assignment-start
