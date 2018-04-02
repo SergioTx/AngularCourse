@@ -4,19 +4,23 @@ import 'rxjs/Rx';
 
 import { RecipeService } from '../recipes/recipe.service';
 import { Recipe } from '../recipes/recipe.model';
+import { AuthService } from '../auth/auth.service';
 
 @Injectable()
 export class DataStorageService {
   private dbUrl = 'https://ng-recipe-book-25de3.firebaseio.com/';
 
-  constructor(private http: Http, private recipeService: RecipeService) { }
+  constructor(private http: Http, private recipeService: RecipeService, private authService: AuthService) { }
 
   storeRecipes() {
-    return this.http.put(this.dbUrl + 'recipes.json', this.recipeService.getRecipes());
+    const token = this.authService.getToken();
+    return this.http.put(this.dbUrl + 'recipes.json?auth=' + token, this.recipeService.getRecipes());
   }
 
   getRecipes() {
-    return this.http.get(this.dbUrl + 'recipes.json')
+    const token = this.authService.getToken();
+
+    return this.http.get(this.dbUrl + 'recipes.json?auth=' + token)
       .map(
         (response: Response) => {
           //check if no ingredients were saved (empty arrays don't save inside firebase)
