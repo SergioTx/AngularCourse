@@ -143,3 +143,8 @@
 ## 20.- Authentication & Route protection in Angular apps
 ### ASSETS
 - authentication-final.zip
+
+## 21.- Using Angular Modules & Optimizing apps
+### ASSETS
+- optimizations-feature-shared-module.zip
+- optimizations-lazy-loading.zip
