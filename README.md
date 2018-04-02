@@ -128,3 +128,10 @@
 ### Folders
 - pipes-start
 - pipes-assignment-start
+
+## 18.- Making HTTP requests
+### ASSETS
+- http-start.zip
+- http-final.zip
+### Folders
+- http-start
