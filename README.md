@@ -148,3 +148,7 @@
 ### ASSETS
 - optimizations-feature-shared-module.zip
 - optimizations-lazy-loading.zip
+- optimizations-core-module.zip
+- if-aot-fails.pdf
+- optimizations-preloading.zip
+- optimizations-final.zip
