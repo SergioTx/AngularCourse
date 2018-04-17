@@ -154,3 +154,10 @@
 - optimizations-final.zip
 
 ## 22.- Deploying an Angular app
+
+## 23.- BONUS: The HttpClient
+The new HttpClient was introduced in Angular 4.3+. The other is not deprecated.
+### ASSETS
+- httpclient-start.zip
+### Folders
+- httpclient-start
