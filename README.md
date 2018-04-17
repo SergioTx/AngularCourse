@@ -159,5 +159,18 @@
 The new HttpClient was introduced in Angular 4.3+. The other is not deprecated.
 ### ASSETS
 - httpclient-start.zip
+- httpclient-finished.zip
+### Folders
+- httpclient-start
+
+## 23.- BONUS: Working with NgRx in our Project
+### ASSETS
+- 01-ngrx-basics-start.zip
+- 02-ngrx-basic-sl-setup.zip
+- 03-ngrx-finished-sl-setup.zip
+- 04-ngrx-basic-auth-start.zip
+- 05-ngrx-auth-effects.zip
+- 06-ngrx-router-store-devtools.zip
+- 07-ngrx-recipes-finished.zip
 ### Folders
 - httpclient-start
