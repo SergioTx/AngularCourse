@@ -164,6 +164,13 @@ The new HttpClient was introduced in Angular 4.3+. The other is not deprecated.
 - httpclient-start
 
 ## 23.- BONUS: Working with NgRx in our Project
+
+Official Github Repo with Documentation: https://github.com/ngrx/platform
+
+Angular & NgRx Tutorial: https://blog.nrwl.io/using-ngrx-4-to-manage-state-in-angular-applications-64e7a1f84b7b
+
+NgRx Patterns & Techniques: https://blog.nrwl.io/ngrx-patterns-and-techniques-f46126e2b1e5
+
 ### ASSETS
 - 01-ngrx-basics-start.zip
 - 02-ngrx-basic-sl-setup.zip
