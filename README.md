@@ -163,7 +163,7 @@ The new HttpClient was introduced in Angular 4.3+. The other is not deprecated.
 ### Folders
 - httpclient-start
 
-## 23.- BONUS: Working with NgRx in our Project
+## 24.- BONUS: Working with NgRx in our Project
 
 Official Github Repo with Documentation: https://github.com/ngrx/platform
 
@@ -181,3 +181,10 @@ NgRx Patterns & Techniques: https://blog.nrwl.io/ngrx-patterns-and-techniques-f4
 - 07-ngrx-recipes-finished.zip
 ### Folders
 - httpclient-start
+
+## 25.- BONUS: Angular Universal
+### ASSETS
+- ng-universal-start.zip
+- ng-universal-finished.zip
+### Folders
+- ng-universal-start
