@@ -209,3 +209,12 @@ That's all!
 - animations-finished.zip
 ### Folders
 - animations-start
+
+
+## 27.- A Basic Introduction to Unit Testing in Angular Apps
+### ASSETS
+- Testing.zip
+- ng4-testing-final.zip
+- testing-final.zip
+### Folders
+- 
