@@ -191,7 +191,7 @@ Universal Rendering with the CLI: https://github.com/angular/angular-cli/wiki/st
 ### Folders
 - ng-universal-start
 
-## 25.- Angular Universal
+## 26.- Angular Animations
 With the release of Angular 4, the general syntax of Angular Animations didn't change. 
 
 However, the animation functions were moved into their own package and you now also need to add a special module to your imports[]  array in the AppModule.
