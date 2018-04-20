@@ -239,7 +239,9 @@ For more Information on how to run Tests with the CLI have a look at their offic
 ### Folders
 - customProjectAndWorkflow
 
-## 29.- Custom Project & Workflow Setup
+## 30.- Custom Project & Workflow Setup
 ### ASSETS
 - typescript.zip
 - How-to-lear-TypeScript.pdf
+### Folders
+- typescript
