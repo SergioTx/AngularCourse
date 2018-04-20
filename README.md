@@ -239,7 +239,7 @@ For more Information on how to run Tests with the CLI have a look at their offic
 ### Folders
 - customProjectAndWorkflow
 
-## 30.- Custom Project & Workflow Setup
+## 30.- Bonus: TypeScript Introduction (for Angular 2 Usage)
 ### ASSETS
 - typescript.zip
 - How-to-lear-TypeScript.pdf
